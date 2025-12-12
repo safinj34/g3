@@ -218,11 +218,11 @@ footer h1{  font-weight: 800;
   }
 
   nav {
-    gap: 0;
+    gap: 10px;justify-content: space-around;
   }
-
+nav ul{justify-content: center;gap: 10px;margin-right: 35px;}
   nav ul li {
-    padding: 10px;
+    padding: 0px;
   }
 
   .section1 p {
