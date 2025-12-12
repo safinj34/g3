@@ -289,5 +289,5 @@ footer h1{  font-weight: 800;
     flex-direction: column;
     margin:0;
   }
-  .section4-div{margin:10px ;} .border1{margin: 20px 0px;} .footer{flex-direction: column;gap: 100px;} .rights{height: auto;text-align: center;}
+  .section4-div{margin:10px ;} .border1{margin: 20px 0px;} .footer{flex-direction: column;gap: 100px;} .rights{height: auto;text-align: center;}footer img{width: 50%;margin: 0 auto;}.section4-div2,.section4-div{margin: 20px 50px;}
 }
