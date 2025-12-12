@@ -289,7 +289,7 @@ nav ul{justify-content: center;gap: 10px;margin-right: 35px;}
     flex-direction: column;
     margin:0;
   }
-  .section4-div{margin:10px ;} .border1{margin: 20px 0px;} .footer{flex-direction: column;gap: 100px;} .rights{height: auto;text-align: center;}footer img{width: 50%;margin: 0 auto;}.section4-div2,.section4-div{margin: 20px 50px;}
+  .section4-div{margin:10px ;} .border1{margin: 20px 0px;} .footer{flex-direction: column;gap: 100px;} .rights{height: auto;text-align: center;margin: 100px 50px;}footer img{width: 50%;margin: 0 auto;}.section4-div2,.section4-div{margin: 20px 50px;}
 }
 
 @media screen and (min-width:576px) and (max-width:992px){  nav {
